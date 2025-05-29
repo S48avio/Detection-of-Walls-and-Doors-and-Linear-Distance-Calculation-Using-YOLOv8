@@ -30,28 +30,28 @@ This project demonstrates how to train a YOLOv8m model to detect doors and walls
 ### 1. Input Image  
 The original floor plan image uploaded by the user.
 
-![Input Image](images/input_image.png)
+![Input Image](ihk.webp)
 
 ---
 
 ### 2. Detection of Doors and Walls  
 Doors are marked in green, walls in blue. Each door is numbered for easy selection.
 
-![Detected Doors and Walls](images/detection_output.png)
+![Detected Doors and Walls](ihkoutput.jpg)
 
 ---
 
 ### 3. Door Selection  
 User inputs the door number to select. The selected door centroid is highlighted.
 
-![Door Selection](images/door_selection.png)
+![Door Selection](doors.png)
 
 ---
 
 ### 4. Distance Measurement  
 A black line is drawn from the door centroid to the opposite wall, and the distance in pixels and real-world units is displayed.
 
-![Distance Measurement](images/distance_measurement.png)
+![Distance Measurement](distance.png)
 
 ---
 
