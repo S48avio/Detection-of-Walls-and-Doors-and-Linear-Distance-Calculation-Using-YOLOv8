@@ -52,6 +52,7 @@ User inputs the door number to select. The selected door centroid is highlighted
 A black line is drawn from the door centroid to the opposite wall, and the distance in pixels and real-world units is displayed.
 
 ![Distance Measurement](distance.png)
+![Distance Measurement](results.png)
 
 ---
 
